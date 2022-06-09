@@ -1,23 +1,23 @@
-- name: Spanning Tree
-  url: https://www.youtube.com/channel/UCDzVUXiTr3hClI-zzCWbYzg
-  description: Spanning Tree is a YouTube channel where I post videos on topics in computer science and mathematics.
-- name: Jeopardy Player
-  url: https://jeopardy.brianyu.me/
-  description: Jeopardy Player is a Jeopardy gameplay application that allows users to host custom Jeopardy games.
-  src: https://github.com/brianyu28/jeopardy
-- name: Tenacity
-  url: https://tenacity.brianyu.me/
-  description: Tenacity is a game to help students practice principles of computational thinking.
+- name: Project A
+  url: https://github.com/keane-fernandes
+  description: Project A description.
+- name: Project B
+  url: https://github.com/keane-fernandes # application that is hosted online (heroku, netlify etc.)
+  description: Project B description.
+  src: https://github.com/keane-fernandes # source files hosted on a remote git repository.
+- name: Project C
+  url: https://github.com/keane-fernandes
+  description: Project C description.
   src: https://github.com/brianyu28/tenacity
-- name: Countdowns
+- name: Project D
   url: https://countdowns.brianyu.me/
-  description: Countdowns is a web app for creating simple countdown timers to events.
+  description: Project D description.
   src: https://github.com/brianyu28/countdowns
-- name: Authorship
+- name: Project E
   url: https://github.com/brianyu28/authorship
-  description: My undergraduate thesis research focused on authorship attribution problems, using a Hidden Markov Model approach to determining authorship of anonymous documents.
+  description: Project E description.
   src: https://github.com/brianyu28/authorship
-- name: Dispatch
+- name: Project F
   url: https://github.com/brianyu28/dispatch
-  description: Dispatch is a command-line mail merge tool for sending custom bulk emails to a list of recipients.
+  description: Project F description.
   src: https://github.com/brianyu28/dispatch
