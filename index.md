@@ -4,10 +4,10 @@ layout: default
 
 # Hello!
 
-I'm Keane, a Software Delivery Engineer at [Jaguar Land Rover](https://automattic.com) on behalf of Alten UK.
+I'm Keane, a Software Delivery Engineer at [Jaguar Land Rover](https://www.jaguarlandrover.com) on behalf of Alten UK.
 I graduated from the University of Bristol in 2021 with a masters in computer science and in 2017 with a masters in engineering.
 
-Before joining Alten UK, I worked at csi GmbH in Germany as a systems engineer, where my work mainly involved simulating battery models and battery management system control algorithms.
+Before joining Alten UK, I worked at csi GmbH in Germany as a systems engineer, where my work mainly involved simulating battery models and optimising algorithms used in battery management systems.
 
 If you would like to work together
 Contact me at <keanefern@gmail.com>.
