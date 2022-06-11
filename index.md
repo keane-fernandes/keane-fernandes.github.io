@@ -12,8 +12,6 @@ Before joining Alten UK, I worked at csi GmbH in Germany as a systems engineer, 
 If you would like to work together
 Contact me at <keanefern@gmail.com>.
 
-<div class="embed"><iframe src="https://www.youtube.com/embed/videoseries?list=PLZErML25eQ-NK9uR6Jw-NKrA_PlsB78b_" frameborder="0" allowfullscreen></iframe></div>
-
 <!--
 ## Extracurriculars
 
