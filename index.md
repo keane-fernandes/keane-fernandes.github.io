@@ -10,7 +10,7 @@ I graduated from the University of Bristol in 2021 with a masters in computer sc
 Before joining Alten UK, I worked at csi GmbH in Germany as a systems engineer, where my work mainly involved simulating battery models and optimising algorithms used in battery management systems.
 
 # Contact Me
-You can reach me at <keanefern@gmail.com>.
+You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/kfe/) or send me an [email](mailto:keanefern@gmail.com).
 
 <!--
 ## Extracurriculars
