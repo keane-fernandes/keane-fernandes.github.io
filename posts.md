@@ -7,6 +7,7 @@ num_excerpts: 5
 
 {% for post in site.posts limit:page.num_excerpts %}
 {% include preview.md post=post %}
+<hr>
 {% endfor %}
 
 {% if site.posts.size > page.num_excerpts %}
