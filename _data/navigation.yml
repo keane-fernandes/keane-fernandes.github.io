@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: Videos
-  link: /videos
+- name: Resume
+  link: /assets/files/resume.pdf
 - name: Posts
   link: /posts
 - name: Projects
