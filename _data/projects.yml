@@ -1,23 +1,23 @@
 - name: Project A
-  url: https://github.com/keane-fernandes
+  url: https://keane-fernandes.github.io
   description: Project A description.
 - name: Project B
-  url: https://github.com/keane-fernandes # application that is hosted online (heroku, netlify etc.)
+  url: https://keane-fernandes.github.io # application that is hosted online (heroku, netlify etc.)
   description: Project B description.
   src: https://github.com/keane-fernandes # source files hosted on a remote git repository.
 - name: Project C
-  url: https://github.com/keane-fernandes
+  url: https://keane-fernandes.github.io
   description: Project C description.
-  src: https://github.com/brianyu28/tenacity
+  src: https://github.com/keane-fernandes
 - name: Project D
-  url: https://countdowns.brianyu.me/
+  url: https://keane-fernandes.github.io
   description: Project D description.
-  src: https://github.com/brianyu28/countdowns
+  src: https://github.com/keane-fernandes
 - name: Project E
-  url: https://github.com/brianyu28/authorship
+  url: https://keane-fernandes.github.io
   description: Project E description.
-  src: https://github.com/brianyu28/authorship
+  src: https://github.com/keane-fernandes
 - name: Project F
-  url: https://github.com/brianyu28/dispatch
+  url: https://keane-fernandes.github.io
   description: Project F description.
-  src: https://github.com/brianyu28/dispatch
+  src: https://github.com/keane-fernandes
