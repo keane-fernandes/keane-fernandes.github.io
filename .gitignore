@@ -5,3 +5,7 @@ _site
 vendor
 
 .DS_Store
+
+assets/images/logo.jpeg
+assets/images/logo_black.png
+assets/images/logo_transparent.png
