@@ -1,15 +1,14 @@
-- name: Project A
-  url: https://keane-fernandes.github.io
-  description: Project A description.
-- name: Project B
-  url: https://keane-fernandes.github.io # application that is hosted online (heroku, netlify etc.)
-  description: Project B description.
-  src: https://github.com/keane-fernandes # source files hosted on a remote git repository.
-- name: Project C
-  url: https://keane-fernandes.github.io
+- name: Turtle Assembler | C
+  src: https://github.com/keane-fernandes/c-turtle
+  description: A C implementation of the LOGO programming language with an ARM Assembly extension.
+- name: Automotive Cybersecurity | Python
+  src: https://github.com/keane-fernandes/python-pol-ml-cybersecurity
+  description: A Framework for Detection of Anomalies in Sensor Data for Prevention of Cyberattacks in Connected Autonomous Vehicles written in Python.
+- name: DB | Java
+  src: https://keane-fernandes.github.io
   description: Project C description.
   src: https://github.com/keane-fernandes
-- name: Project D
+- name: STAG | Java
   url: https://keane-fernandes.github.io
   description: Project D description.
   src: https://github.com/keane-fernandes
@@ -19,5 +18,11 @@
   src: https://github.com/keane-fernandes
 - name: Project F
   url: https://keane-fernandes.github.io
-  description: Project F description.
-  src: https://github.com/keane-fernandes
+  description: Project F description. # live deployment (Heroku, Netlify etc.)
+  src: https://github.com/keane-fernandes # source files (GitHub)
+
+
+#- name: Project X
+#  url: https://keane-fernandes.github.io
+#  description: Project F description. # live deployment (Heroku, Netlify etc.)
+#  src: https://github.com/keane-fernandes # source files (GitHub)
