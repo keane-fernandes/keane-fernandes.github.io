@@ -4,7 +4,7 @@ num_excerpts: 5
 ---
 
 <h1 style="text-align:center">Posts</h1>
-
+<br>
 {% for post in site.posts limit:page.num_excerpts %}
 {% include preview.md post=post %}
 <hr>
