@@ -1,26 +1,21 @@
-- name: Turtle Assembler | C
-  src: https://github.com/keane-fernandes/c-turtle
-  description: A C implementation of the LOGO programming language with an ARM Assembly extension.
 - name: Automotive Cybersecurity | Python
-  src: https://github.com/keane-fernandes/python-pol-ml-cybersecurity
-  description: A Framework for Detection of Anomalies in Sensor Data for Prevention of Cyberattacks in Connected Autonomous Vehicles written in Python.
+  url: https://github.com/keane-fernandes/python-pol-ml-cybersecurity
+  description: A framework for detection of anomalies in sensor data for prevention of cyberattacks in connected autonomous vehicles written in Python.
 - name: DB | Java
-  src: https://keane-fernandes.github.io
-  description: Project C description.
-  src: https://github.com/keane-fernandes
+  url: https://github.com/keane-fernandes/java-db
+  description: An RDBMS clone that accepts common SQL commands, built up from scratch in Java.
 - name: STAG | Java
+  url: https://github.com/keane-fernandes/java-stag
+  description: A terminal based simple text adventure game (STAG) that accepts JSON and DOT setup files.
+- name: Turtle Assembler | C
+  url: https://github.com/keane-fernandes/c-turtle
+  description: A C implementation of the LOGO programming language with an ARM Assembly extension.
+- name: Polymorphic Hashing | C
+  url: https://github.com/keane-fernandes/c-hashtable
+  description: A C implementation of a polymorphic hash table.
+- name: OXO | Java
   url: https://keane-fernandes.github.io
-  description: Project D description.
-  src: https://github.com/keane-fernandes
-- name: Project E
-  url: https://keane-fernandes.github.io
-  description: Project E description.
-  src: https://github.com/keane-fernandes
-- name: Project F
-  url: https://keane-fernandes.github.io
-  description: Project F description. # live deployment (Heroku, Netlify etc.)
-  src: https://github.com/keane-fernandes # source files (GitHub)
-
+  description: A java implementation of noughts and crosses, with a customisable board size ranging from 3x3 upto 9x9.
 
 #- name: Project X
 #  url: https://keane-fernandes.github.io
