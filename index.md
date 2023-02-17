@@ -3,11 +3,9 @@ layout: default
 ---
 
 # Hello!
+Welcome to my portfolio website! I am a highly skilled professional with two Master's degrees in Mechanical Engineering and Computer Science. With over 5 years of experience in the automotive industry, I am currently working as a Software Delivery Engineer at [Jaguar Land Rover](https://www.jaguarlandrover.com). In this role, I have led and contributed to various projects, working closely with cross-functional teams to deliver high-quality software products and services.
 
-I'm Keane, a Software Delivery Engineer at [Jaguar Land Rover](https://www.jaguarlandrover.com) on behalf of Alten UK.
-I graduated from the University of Bristol in 2021 with a masters in computer science and in 2017 with a masters in engineering.
-
-Before joining Alten UK, I worked at csi GmbH in Germany as a systems engineer, where my work mainly involved simulating battery models and optimising algorithms used in battery management systems.
+Alongside my day job, I am also a Digital Transformation Consultant with a passion for helping businesses leverage technology to improve their operations and drive growth. My expertise in both mechanical engineering and computer science allows me to take a holistic approach to digital transformation, understanding both the technical and operational aspects of a business. I have worked with various clients across different industries, helping them to streamline their processes, optimize their systems, and adopt new technologies to achieve their goals. If you are looking for a consultant who can help your business transform and thrive in the digital age, please don't hesitate to get in touch!
 
 # Contact Me
 You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/kfe/) or send me an [email](mailto:keanefern@gmail.com).
